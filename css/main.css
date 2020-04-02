@@ -37,7 +37,7 @@ a {
 }
 header {
 	background: hsla(193, 100%, 96%, 0.5);
-	background-image: url("/images/bg-hero-desktop.svg");
+	background-image: url("../images/bg-hero-desktop.svg");
 }
 
 .header-content {
@@ -234,7 +234,7 @@ footer {
 	}
 	header {
 		background: hsla(193, 100%, 96%, 0.5);
-		background-image: url("/images/bg-hero-mobile.svg");
+		background-image: url("../images/bg-hero-mobile.svg");
 	}
 	.header-content {
 		margin-top: 20px;
